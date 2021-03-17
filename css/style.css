@@ -1,0 +1,80 @@
+* {
+
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'PT Sans Narrow', Arial, sans-serif;
+    text-transform: none;
+    font-size: 4.0rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+h2 {
+    font-family: 'PT Sans Narrow', Arial, sans-serif;
+    text-transform: none;
+    font-size: 3.0rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+h4 {
+    font-family: 'PT Sans Narrow', Arial, sans-serif;
+    text-transform: none;
+    font-size: 2.0rem;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+p, li, a {
+    font-size: 8px;
+    font-family: 'Roboto',Arial,sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.jumbotron {
+    height: 100%;
+    width: 100%;
+    padding: 10% 0 10%;
+    margin: 0;
+    background-color: #60934f; 
+    color: #fff;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-weight: 300;
+    font-size: 5px;
+}
+.jumbotron-global-pizza {
+    height: 100%;
+    width: 100%;
+    padding: 10% 0 10%;
+    margin: 0;
+    background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+    color: #fff;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-weight: 300;
+    font-size: 5px;
+}
+
+/*FOOTER*/
+.footer {
+    text-align: left;
+    padding: 20px;
+    color: #cccccc;
+    background-color: #222222;
+}
+
+.footer a {
+	color: #7f7f7f;
+}
+
+.footer .footer-share li {
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	float: none;
+}
